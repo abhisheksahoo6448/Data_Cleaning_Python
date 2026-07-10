@@ -1,6 +1,6 @@
 # Data_Cleaning_Python
-I have attached the file which contains my code and my output.
-I have also attached file containing the whole raw dataset.
+# I have attached the PDF file which contains my code and my output.
+# I have also attached file containing the whole raw dataset.
 
 1. Imported Important Librabries
 2. Imported raw / uncleaned dataset
